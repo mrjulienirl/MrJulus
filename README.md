@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Mr_Julus</h1>
+<h1 align="center">Hey there 👋, I'm MrJulienIRL</h1>
 
 ---
 
@@ -29,7 +29,7 @@
 
 ## 💬 Reach Me On:
 ### Discord:
-🗨️ `@mr_julus` | [🔗 View my account](https://discord.com/users/924233905857499166)
+🗨️ `@mrjulien_irl` | [🔗 View my account](https://discord.com/users/924233905857499166)
 
 ---
 
